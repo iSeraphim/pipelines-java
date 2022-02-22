@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Azure-Upskilling/First%20Pipeline/_apis/build/status/iSeraphim.pipelines-java?branchName=master)](https://dev.azure.com/Azure-Upskilling/First%20Pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
