@@ -6,7 +6,7 @@ steps:
 # Prepare Analysis Configuration task
 - task: SonarQubePrepare@5
   inputs:
-    SonarQube: 'http://localhost:9000/'
+    SonarQube: 'SonarQube'
     scannerMode: 'MSBuild'
     projectKey: 'First_Pipeline_SonarQueApp'
 
